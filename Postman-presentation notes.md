@@ -13,23 +13,25 @@
 
 Bonus: Don’t Overthink
 
-# Call to action
+## Call to action
 
-Getting started with Postman
+Getting started with Postman. Introduction talk meant to be less than 10 minutes.
+
+# Talk Summary
+
+Short introduction on what Postman is and how to GET data with their no-code application.
 
 * What is HTTP status Code
 * What is API
 * How does Postman help?
 * How to Make a Get request.
 
-
-
 ## What is HTTP status Code
 
 Resource for front end questions
 https://developer.mozilla.org/en-US/
 
-Http Status codes
+HTTP Status codes
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 
 * HTTP status codes are returned by the server to tell the browser how the "HTTP Request" was handled.
@@ -44,19 +46,19 @@ https://github.com/public-apis/public-apis
 * Application Programming Interface (API) allows two programs to communicate with each other.
 * HTTP is a collection of rules for transmission of data on the world wide web.
 * APIs primarly use 4 Request Methods.
-  * GET retrieves data from an API.
-  * POST sends new data to an API.
-  * PUT update existing data.
-  * DELETE removes existing data.
-* APIs are URLs (https://postman-echo.com/get)
-  1) URL connects to External system
+  * **GET** retrieves data from an API.
+  * **POST** sends new data to an API.
+  * **PUT** update existing data.
+  * **DELETE** removes existing data.
+* Web APIs are browser URLs (https://postman-echo.com/get)
+  1) API URL connects to External system
   2) External system reads parameters send with URL
   3) External system resolves request
   4) External system returns a response with HTTP status code
 
 ## How does Postman help?
 
-Postman Documentation & Tutorials
+Postman documentation & tutorials
 https://learning.postman.com/docs/getting-started/introduction/
 
 Navigating Postman
